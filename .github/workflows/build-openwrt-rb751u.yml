@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/phs07/openwrt.git
+  REPO_URL: https://github.com/geresa/ac21.git
   REPO_BRANCH: openwrt-19.07.5_xiaomi_router_ac2100
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: rb751u.config
