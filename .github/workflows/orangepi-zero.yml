@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt orangepi-zero
+name: orangepi-zero
 
 on:
   repository_dispatch:
