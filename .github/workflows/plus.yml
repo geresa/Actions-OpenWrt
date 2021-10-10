@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: stb
+name: plus
 
 on:
   repository_dispatch:
